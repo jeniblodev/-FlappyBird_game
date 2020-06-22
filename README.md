@@ -13,6 +13,7 @@ Tem sido uma experiência bem divertida e de muito conhecimento, espero que voc�
 - JavaScript
 
 ## 🎨 Projetos
+*⚙ Em andamento*
 
 - Game Flappy Bird.
 
